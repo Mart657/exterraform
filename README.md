@@ -1,0 +1,2 @@
+# exterraform
+exercicio variavel terraform
